@@ -3,6 +3,7 @@ package com.dsgk;
 public class Git01 {
 	private String name;
 	private String pwd;
+
 	public String getName() {
 		return name;
 	}
