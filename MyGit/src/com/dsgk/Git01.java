@@ -4,6 +4,8 @@ public class Git01 {
 	private String name;
 	private String pwd;
 
+	private String email;
+
 	public String getName() {
 		return name;
 	}
