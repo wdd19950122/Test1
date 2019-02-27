@@ -16,6 +16,6 @@ public class Git01 {
 		this.pwd = pwd;
 	}
 	
-	
+	public void m1(){}
 	
 }
